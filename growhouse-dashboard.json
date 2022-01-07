@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "growhouse-dashboard",
+  "private_key_id": "5d2a51ed89377504d34eeba13f6ce3e0dd0085df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOpui/i667diAm\nX8U1B9oF8XHhRUW8HynrYYsC7GEVwbghtqHjiuonqJnNCP/narcZpqPplCN+mm3R\nZ6IvlugbIF4pDqyWkNy0hsRdIEejCX6WCiJAc2o9vuByodr1PjvpHIQ3fDJ7hUYu\nqRIAK7dIqVEZfpuVuQcPVef90ybke4/oCL0M23cu5XHkueOK8bLiZb3YUPycTUuo\ny+meosvoD1FDe9CocnvqS06LkmoIsWQ4ZHSs0Xx02kayk+mcseajCqq3TGM6BuBR\nr38GdMXko8fjBsmARRGW0nojluPKP7bMd/QQdbpVh1Ll7Oz8WVs0Rf4msv9AN3Kp\nUzJzRLnJAgMBAAECggEADytgX4MZ9gkUFuSTBuZCeOSRnroUNfKt7WACbXGHyu2e\nWCZwzW6/ou8+yLMK7HfYh/ekoVF9m0hOgojF0k/2t3DAFpdfAsVdlOxqW/lTaNrY\n/VlPRmGHlBCU01fTHgZrzkiYJkLUpvY3jf1wYriDXWyU6VRBdQDXp3m0CXW/Ymc5\nKpbkwZvKD0i0MtqyLmJZCWnMmmVO7rFHVggJBQAd9ZunHL1ZOLESCcJ3d4uycAxr\njfG79kWha/iaDskT3H0Zb+tgKBrL8Z3bXxm2NNbsksne4iOz9aTqUZSUFvVtOK7p\nOfILj7XYQZcKArZmNaUx+DLESl+qdMxEu5M+CUD10QKBgQDHcYI44o41N8EOSng0\nC2m8SRUkfO0X1/pN0/BEybzM8+6eX8ejJCDTv4oBVTbu2oPt3NWcWjA2PL2vckiL\nA4rOOMs/sGVTOrXv9lFo5werHge2Qns/v0fZpC0YlpVZ0MclFzq0WwjRrg/gmE9e\nbMbzCFr/e8z5ocd1cPoqFrAl8QKBgQC3GqhRE/+RxnqgRmAB+JNw18Iv/TanTEti\n++fg+zmJ1tCdykDqDMEwiEvwaM8u1tlaTFusljdT8c/q+bTEJA6ergARhaTVu2mb\nGHWGXVE3yZUf3+9FNwEo2b1r49DUEQDI4wpdFNuXrqj7gdSto+l2ApyXnavm8Ej8\nfJE7EoMZWQKBgHSkvS15ywPy5LTv9tcxaZiWAYiCi8OrLBgCgP4qIoKXk5IKoF6Y\njZ5p4lOfO+573DbsNf4ofRPreGC47RZobvDnJG/OQaRorOl33OsGW2THvmjo/t4s\nh+AQ9dLwls6dnSrjKBE9QK4pJ94KFjk6UyzmURoklJ/W7ymPdq/Q7xpxAoGAXG78\noVFzJugHZ3mfZd9Srxh8UzWErZf6RpHcUNsCBO+IiN9dPcoKjLGBhG+kh4S2XLtH\nXCzI6Xuc9oXwF0QMjVZReob421ysxzrluVrKcVs2CM1HQK2vzCt/UEPFXAjpWIAk\n7zBkWoI1lCHKd43TgVt4KaHS8dZDQhKwTh3eSKECgYB97yrRte2pdBEZg019tj1J\ntO80XSg1BkcCJAD++1NRExfslT9oCM930GK7w5283YVD9qeYavwH9cDQrTSOgFOl\nV11JRjLX+aAbCSx6kqkHh/Mf+6LjXmGlLkmZpa6u1g1IwprPfsrWeakCoDXSd9um\nGpeq5QM2qlX3oGUCFCdgyQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ilhgc@growhouse-dashboard.iam.gserviceaccount.com",
+  "client_id": "111593422762908275998",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ilhgc%40growhouse-dashboard.iam.gserviceaccount.com"
+}
