@@ -26,11 +26,15 @@ environment:
 # dependencies can be manually updated by changing the version numbers below to
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
+
+
+# Gauges - Jason
 dependencies:
   flutter:
     sdk: flutter
   cloud_firestore:
   provider: ^5.0.0
+  syncfusion_flutter_gauges: ^18.2.44
 
 
   # The following adds the Cupertino Icons font to your application.
